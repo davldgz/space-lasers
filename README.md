@@ -1,1 +1,1 @@
-# space-lasers
+# Space Lasers Project
